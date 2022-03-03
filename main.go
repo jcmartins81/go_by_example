@@ -1,7 +1,7 @@
 package main
 
 import (
-	arraysandslices "go_by_example/arraysAndSlices"
+	"go_by_example/maps"
 )
 
 //import ifelse "go_by_example/if_else"
@@ -17,5 +17,6 @@ func main() {
 	//ifelse.IfElse()
 	//switchcase.Switchcase()
 	//arraysandslices.Arrays()
-	arraysandslices.Slices()
+	//arraysandslices.Slices()
+	maps.Maps()
 }
